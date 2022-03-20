@@ -31,5 +31,10 @@ const ChessmanType = {
     BISHOP: "bishop",
 }
 
+const ratio = 145;
+
+
 const NUMBER_SQUARE = 8;
-const SQUARE_SIZE = 80;
+const SQUARE_SIZE = 80 / 100 * ratio;
+
+const CHESSMAN_SIZE = 72 / 100 * ratio

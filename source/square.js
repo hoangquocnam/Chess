@@ -14,7 +14,7 @@ function Square(x, y, square__Size) {
                 margin: 0px;
                 background-color: ${this.color};
                 border: 4px solid ${this.color};
-                display: inline-block`,
+                `,
     })
 
     // event

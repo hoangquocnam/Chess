@@ -27,3 +27,5 @@ function gameOver(colorWin){
     resultBoard.appendChild(newgameButton);
     document.body.appendChild(resultBoard);
 }
+
+

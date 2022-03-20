@@ -1,8 +1,7 @@
 function ChessMan() {
-	const CHESSMAN_SIZE = "72px";
 	this.image = document.createElement("img");
-	this.image.style.width = CHESSMAN_SIZE;
-	this.image.style.height = CHESSMAN_SIZE;
+	this.image.style.width = CHESSMAN_SIZE + 'px';
+	this.image.style.height = CHESSMAN_SIZE + 'px';
 	this.position_X;
 	this.position_Y;
 	this.color;

@@ -78,6 +78,7 @@ function ChessBoard() {
       }
     }
   };
+  
 
   // event handler
   this.hightLightPossibleSquare = (status) => {

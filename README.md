@@ -1,4 +1,4 @@
 ﻿<h1>Chess Game - 2 players</h1>
 <p>The white side will play first</p>
 
-<a href="https://hoangquocnam.github.io/Chess/"/>
+https://hoangquocnam.github.io/Chess/
